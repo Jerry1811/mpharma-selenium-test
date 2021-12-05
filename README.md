@@ -18,6 +18,11 @@ pip install selenium behave
 ```
 
 run project locally in the terminal with the command:
-behave features/create_new_patient.feature or simply behave
+
+```
+behave features/create_new_patient.feature
+OR
+behave
+```
 
 NB: Python has to be installed locally
